@@ -1,0 +1,28 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "sourceMap": false,
+        "moduleResolution": "node",
+        "target": "es5",
+        "downlevelIteration": true,
+        "outDir": "./lib",
+        "strict": true,
+        "strictFunctionTypes": true,
+        "declaration": true,
+        "removeComments": true,
+        "noImplicitReturns": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noFallthroughCasesInSwitch": true,
+        "forceConsistentCasingInFileNames": true,
+        "lib": [
+            "dom",
+            "es2016"
+        ],
+    },
+    "exclude": [
+        "node_modules",
+        ".npm",
+        "lib"
+    ]
+}

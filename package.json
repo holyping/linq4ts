@@ -1,0 +1,27 @@
+{
+  "name": "linq4ts",
+  "version": "1.0.0",
+  "description": "linq for typescript",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holyping/linq4ts.git"
+  },
+  "keywords": [
+    "linq",
+    "typescript"
+  ],
+  "author": "holyping",
+  "license": "FSFUL",
+  "bugs": {
+    "url": "https://github.com/holyping/linq4ts/issues"
+  },
+  "homepage": "https://github.com/holyping/linq4ts#readme",
+  "devDependencies": {
+    "typescript": "^2.8.3"
+  }
+}
