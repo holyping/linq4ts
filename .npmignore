@@ -1,5 +1,4 @@
-src
-.gitignore
+src/
 linq4ts.code-workspace
 package-lock.json
 tsconfig.json
