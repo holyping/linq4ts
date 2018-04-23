@@ -1,6 +1,6 @@
 {
   "name": "linq4ts",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "linq for typescript",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
